@@ -16,19 +16,13 @@ public class FlightSearchtest extends BaseClass {
 
         FlightSearchPage searchPage = new FlightSearchPage(driver);
 
-        searchPage.closeLoginPopup();
-
-        
+        searchPage.closeLoginPopup();     
      
 
-      searchPage.enterFromCity("BHO - Bhopal, IN");
-    searchPage.enterTOCity("Pune");
-       
-      
-        
+        searchPage.enterFromCity("BHO - Bhopal, IN");
+        searchPage.enterTOCity("Pune");          
     
-        searchPage.selectDepartureDateAndSearch();
-        
+        searchPage.selectDepartureDateAndSearch();        
         
         FlightResultsPage resultsPage = new FlightResultsPage(driver);
 
