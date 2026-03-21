@@ -30,7 +30,7 @@ Click Search Flights
 Verify flight results display:
 Airline Name
 Flight Price
-```
+
 Cleartrip-Automation/
 │
 ├── pom.xml
@@ -55,8 +55,8 @@ Cleartrip-Automation/
 │   └── screenshots
 │
 └── README.md
-```
-```
+
+
 Tech Stack
 Tool	Version
 Java	8+
@@ -65,7 +65,7 @@ TestNG	7.x
 Maven	3.x
 ChromeDriver	Latest
 ```
-
+```
 Framework Design
 
 The framework follows Page Object Model (POM).
@@ -90,7 +90,7 @@ Utils
 
 Explicit waits
 Reusable functions
-```
+
 Skills Demonstrated
 Selenium WebDriver
 TestNG Framework
@@ -99,8 +99,7 @@ Explicit Waits
 Dynamic Web Element Handling
 Automation Framework Design
 Git & GitHub
-```
-```
+
 🚀 Future Improvements
 Data Driven Testing (Excel / JSON)
 Allure Reporting
