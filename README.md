@@ -90,6 +90,14 @@ Utils
 Explicit waits
 Reusable functions
 
+Skills Demonstrated
+Selenium WebDriver
+TestNG Framework
+Page Object Model
+Explicit Waits
+Dynamic Web Element Handling
+Automation Framework Design
+Git & GitHub
 
 
 🚀 Future Improvements
@@ -100,9 +108,3 @@ Cross Browser Testing
 Retry Failed Tests
 
 
-👨‍💻 Author
-
-Rajesh Sahu
-
-B.Tech Computer Science
-Technocrats Institute of Technology
