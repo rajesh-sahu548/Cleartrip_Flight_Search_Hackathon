@@ -1,4 +1,4 @@
-📌 Overview
+Overview
 
 This project automates the Cleartrip flight search functionality using Selenium WebDriver with Java and TestNG.
 
@@ -56,7 +56,7 @@ Cleartrip-Automation/
 └── README.md
 
 
-ech Stack
+Tech Stack
 Tool	Version
 Java	8+
 Selenium WebDriver	4.x
