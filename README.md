@@ -106,5 +106,3 @@ Allure Reporting
 CI/CD Integration (GitHub Actions)
 Cross Browser Testing
 Retry Failed Tests
-
-
