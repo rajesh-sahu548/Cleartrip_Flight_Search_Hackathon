@@ -31,7 +31,6 @@ public abstract  class BaseClass {
 
        ExtentSparkReporter spark =
                new ExtentSparkReporter("reports/ExtentReport.html");
-
        extent = new ExtentReports();
        extent.attachReporter(spark);
 
