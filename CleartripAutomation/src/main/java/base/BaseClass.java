@@ -26,6 +26,8 @@ public abstract  class BaseClass {
    // ---------- START REPORT ----------
    @BeforeSuite
    public void startReport() {
+	    ConfigReader.loadConfig();   // FIRST load config file
+
 
        ExtentSparkReporter spark =
                new ExtentSparkReporter("reports/ExtentReport.html");
@@ -79,7 +81,7 @@ public abstract  class BaseClass {
    @AfterMethod
    public void tearDown() {
 
-       driver.close();
+     //  driver.close();
        test.info("Browser closed");
    }
 
