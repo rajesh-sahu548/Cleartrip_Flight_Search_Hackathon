@@ -1,9 +1,11 @@
 ```
 Overview
 
-This project automates the Cleartrip flight search functionality using Selenium WebDriver with Java and TestNG.
+This project automates the Cleartrip flight search functionality using Selenium WebDriver with Java and
+ TestNG.
 
-The automation simulates a guest user journey to search for flights and validate key information on the results page without proceeding to booking.
+The automation simulates a guest user journey to search for flights and validate key information on
+the results page without proceeding to booking.
 
 This project demonstrates handling of:
 
