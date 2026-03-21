@@ -55,7 +55,7 @@ Cleartrip-Automation/
 │
 └── README.md
 ```
-
+```
 Tech Stack
 Tool	Version
 Java	8+
@@ -63,7 +63,7 @@ Selenium WebDriver	4.x
 TestNG	7.x
 Maven	3.x
 ChromeDriver	Latest
-
+```
 
 Framework Design
 
@@ -89,7 +89,7 @@ Utils
 
 Explicit waits
 Reusable functions
-
+```
 Skills Demonstrated
 Selenium WebDriver
 TestNG Framework
@@ -98,11 +98,12 @@ Explicit Waits
 Dynamic Web Element Handling
 Automation Framework Design
 Git & GitHub
-
-
+```
+```
 🚀 Future Improvements
 Data Driven Testing (Excel / JSON)
 Allure Reporting
 CI/CD Integration (GitHub Actions)
 Cross Browser Testing
 Retry Failed Tests
+```
