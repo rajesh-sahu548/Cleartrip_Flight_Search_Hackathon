@@ -29,7 +29,7 @@ Click Search Flights
 Verify flight results display:
 Airline Name
 Flight Price
-
+```
 Cleartrip-Automation/
 │
 ├── pom.xml
@@ -54,7 +54,7 @@ Cleartrip-Automation/
 │   └── screenshots
 │
 └── README.md
-
+```
 
 Tech Stack
 Tool	Version
